@@ -60,3 +60,11 @@ div#keyboard div.spacer-small {
     height: 16px;
     background-color: #e5ff69;
 }
+
+div#keyboard button.mouse {
+    height: 111px;
+}
+div#keyboard button.wheel {
+    width: 55px;
+    height: 55px;
+}
